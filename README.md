@@ -1,3 +1,3 @@
 # zws-repository
 My basic repository
-My name is zhangweisheng. I come from China.Now I'm going to engage into the vue programming now.So I decide to establish a project on the github,on which I can exchange expeiences with other here and discuss .
+This is my second commit here .I just wonder why my changes of the first commit is merged into the master branch though I revert it
